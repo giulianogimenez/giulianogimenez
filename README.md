@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @giulianogimenez
 - 👀 I’m interested in coding in Java, Clojure, Python and Go!
-- 🌱 I’m currently learning Clojure!
 - 💞️ I’m looking to collaborate on everything that will change someone`s life.
 - 📫 How to reach me: just click on my LinkedIn profile.
 
